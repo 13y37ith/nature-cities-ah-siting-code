@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+tqdm
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+geopandas
+osmnx
+shapely
+torch
+torch-geometric
